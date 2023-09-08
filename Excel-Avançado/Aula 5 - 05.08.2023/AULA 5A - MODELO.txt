@@ -1,0 +1,7 @@
+Data Compra;Nome Cliente;Item;Valor Unitario;Quantidade
+12/03/2011;Francisco;Caderno;5;10
+13/03/2011;Diana;Lapis;1;100
+12/04/2011;Gilberto;Lapiseira;2;6,80
+13/04/2011;Maria Lais;Régua;50;0,67
+15/04/2011;Fernando;Caderno;20;5,80
+05/08/2023;Rafael;Borracha;2;4,00
