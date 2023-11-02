@@ -1,0 +1,56 @@
+1. Perguntar	
+	1. Quais são as tendências no futebol?
+	2. Como essas tendências podem interferir no número de gols marcados?
+	3. Que tipo de jogador marca mais gol? Destro ou Canhoto?
+	4. A idade do jogador interfere no número de gols?
+	5. Qual a relação de gols e nacionalidade (Brasil e Portugal)? *um pouco pessoal, apenas para fim de curiosidade😄
+		1. Breve descrição das colunas mais importantes
+		2. Resumo da análise 
+		3. Documentação
+		4. Resumo da tarefa de negócios fictício
+		5. ex: obter insights para contratação de novos jogadores jovens, com base no sucesso de jogadores mais velhos
+2. Preparar
+	1. Onde os dados estão organizados?
+	2. Como estão organizados?
+	3. Existe algum tipo de interferência/viés que diminuam a credibilidade dos dados?
+	4. Os dados são integros?
+	5. Existe algum problema com os dados?
+		1. Download dos dados (.csv) diretamente do kaggle
+		2. Identificação dos dados - análise inicial
+		3. Classificar e filtrar os dados - uso do PowerQuery no excel
+		4. Determinar a credibilidade dos dados
+3. Processar
+	1. Quais ferramentas serão usadas para processar os dados?
+	2. Verificar se os dados estão limpos e o que fazer para garantir isso?
+	3. Documentar o processo de limpeza
+		1. Verificar os dados em busca de anormalidades
+		2. Escolher as ferramentas
+		3. Tranformar e documentar os processos de limpeza dos dados
+4. Analisar
+	1. Como organizar os dados para realizar as análises? *tabelas dinâmicas?
+	2. Os dados estão formatados corretamente?
+	3. Quais tendências e relações foram encontradas?
+	4. Como esses insights ajudaram a responder as perguntas de negócio?
+		1. Organização e formatação dos dados
+		2. Realizar cálculos e codar
+		3. identificar relações e tendências
+		4. Resumo da análise
+5. Compartilhar
+	1. As perguntas de negócios foram respondidas?
+	2. Que história os dados contam?
+	3. Quem é o público-alvo?
+	4. A visualização de dados pode ajudar a compartilhar as descobertas?
+	5. A apresentação está acessível?
+		1. Determinar como compartilhar as descobertas
+		2. Criar visualizações de dados eficazes
+		3. Apresentar as descobertas
+		4. Deixar as descobertas acessíveis
+		5. Ferramentas de visualização
+6. Agir
+	1. Qual é a conclusão final com base na análise?
+	2. Como os especialistas podem aplicar os insights apresentados?
+	3. O que as partes interessadas podem seguir após esses insights?
+		1. Fazer o deploy do estudo de caso
+		2. Criar o portfólio
+		3. Praticar a apresentação do estudo de caso - Storytelling
+
