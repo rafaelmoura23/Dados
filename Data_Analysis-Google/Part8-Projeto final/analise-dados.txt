@@ -1,0 +1,31 @@
+1. Perguntar
+ I. Existem muitas colunas, porém para a nossa análise as mais importantes serão:
+	- Name
+	- NationID
+	- Born
+	- Age
+	- IntCaps
+	- IntGoals
+ II. Utilizando essas colunas e talvez a média das outra colunas de habilidades, tentaremos predizer quais são as tendências de jogadores jovens para o futuro (me refiro a atacante e meio-campistas, pois goleiros "não entram" nas estatísticas de IntGoals) com base em jogadores mais velhos. Está será a tarefa de negócios fictícia. 
+
+2. Preparar
+  I. Fizemos o download diretamente do site do kaggle (https://www.kaggle.com/datasets/ajinkyablaze/football-manager-data) um arquivo .csv.
+  II. Os dados contém 89 colunas e 159.542 linhas. Existem diversas colunas de habilidade por exemplo, mas para a nossa análise iremos utilizar apenas as colunas já mencionadas acima.
+  III. Inseri os dados em uma planilha de excel, com a ajuda do PowerQuery para carregar os dados e tranformar as colunas.
+  IV. Os dados são de um jogo, portanto tudo indica que eles não são enviesados.
+
+3. Processar
+  I. Utilizaremos inicialmente o Excel para carregar, classificar, filtrar e criar tabelas dinâmicas.
+  II. Excluimos as outras colunas com a ajuda do PowerQuery e ficamos apenas com as colunas:
+	- Name
+	- NationID
+	- Born
+	- Age
+	- IntCaps
+	- IntGoals
+
+4. Analisar
+  I. Filtramos os dados para IntCaps e IntGoals maiores que 0.
+  II. Criamos uma tabela dinâmica utilizando Age como filtro, Name como rótulo de linha e IntGoals, IntCaps e NationID como valores. Além disso segmentamos os dados em IntGoals para uma rápida filtragem.
+  III - Agora conseguimos filtrar os dados e analisá-los melhor, retiramos valores nulos, aplicamos filtros e classificações e agora podemos de acordo com a idade do jogadore ver seu nome e suas estatísticas.
+  IV - 
